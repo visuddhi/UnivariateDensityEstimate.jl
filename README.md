@@ -14,6 +14,6 @@ Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
 
 <h2> The mirror-descent (MD) algorithm </h2>
 
-When combinatorial constraints are not imposed, it is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Reg)` (faster).
+It is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Reg)` when combinatorial constraints are not imposed.
 
 
