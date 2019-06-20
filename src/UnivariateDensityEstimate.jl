@@ -1,4 +1,4 @@
-module BernsteinDensityEstimate
+module UnivariateDensityEstimate
 
 import Pkg
 using StatsBase, Distributions, JuMP, Gurobi, Dates, LinearAlgebra
