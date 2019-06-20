@@ -44,7 +44,9 @@ Caution: you need to install Gurobi and maintain a valid license in order for th
 
 <h2> An example </h2>
 The provided notebook (https://github.com/visuddhi/UnivariateDensityEstimate.jl/blob/master/Example.ipynb) contains a basic example of how to use the package to do density estimation, based on a tweet timing real dataset.
-
+```julia
+using UnivariateDensityEstimate, Statistics, Plots
+```
 After importing the package, we read the dataset:
 ```julia
 using DelimitedFiles
