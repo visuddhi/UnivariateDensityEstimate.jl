@@ -43,7 +43,7 @@ It is recommended to use `BernsteinEstimate_MIQO(Y,m,a,b,k,e,T)` when there are 
 Caution: you need to install Gurobi and maintain a valid license in order for the MIQO algorithm to work.
 
 <h2> An example </h2>
-The provided [notebook](https://github.com/visuddhi/UnivariateDensityEstimate.jl/blob/master/Example.ipynb) contains a basic example of how to use the package to do density estimation, based on a tweet timing real dataset.
+The provided [notebook]((https://github.com/visuddhi/UnivariateDensityEstimate.jl/blob/master/Example.ipynb) contains a basic example of how to use the package to do density estimation, based on a tweet timing real dataset.
 
 After importing the package, we read the dataset:
 ```julia
