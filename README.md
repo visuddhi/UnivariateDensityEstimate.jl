@@ -78,8 +78,6 @@ val_MIQO_0 = vec(zeros(D,1))
 val_MIQO_1 = vec(zeros(D,1))
 val_MIQO_2 = vec(zeros(D,1))
 val_MIQO_3 = vec(zeros(D,1))
-val_MD_10000 = vec(zeros(D,1))
-val_MIQO = vec(zeros(D,1))
 x = range(a,stop = b, length = D)
 for i = 1:D
     for j = 1:m
