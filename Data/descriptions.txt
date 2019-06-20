@@ -6,13 +6,13 @@ look at altitude histogram
 
 ###
 
-Got another dataset:
+The dataset:
 
 https://cran.r-project.org/web/packages/seismic/seismic.pdf
 
-the dataset is called "tweet"
+is called "tweet".
 
-tweet times in seconds (after taking the log-) leads to a very nice histogram. 
+Tweet times in seconds (after taking the log-). 
 
 
 ###
