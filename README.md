@@ -1,8 +1,12 @@
 # UnivariateDensityEstimate.jl
 
-# Installing the package
+Package for univariate density estimation with combinatorial constraints, based on Bernstein polynomials. 
 
-<code>
-import Pkg
+<h2> Installing the package </h1>
+
+Run the following code to install the package.
+
+
+```import Pkg
 Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
-</code>
+```
