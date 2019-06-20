@@ -38,3 +38,6 @@ It is recommended to use `BernsteinEstimate_MIQO(Y,m,a,b,k,e,T)` when there are 
 * e: MIP gap
 * T: maximum computational time (in sceonds)
 
+<h2> An example </h2>
+
+
