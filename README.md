@@ -12,6 +12,8 @@ import Pkg
 Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
 ```
 
+You need to also have Julia v 1.1 installed (the package does not support the syntax for older Julia versions before v 1.0) to be able to use this package.
+
 <h2> The mirror-descent (MD) algorithm </h2>
 
 It is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Reg)` when combinatorial constraints are not imposed.
