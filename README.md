@@ -28,6 +28,7 @@ It is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Re
 * Reg: coefficient of the L2 regularizer
 
 <h2> The mixed-integer-qudratic-optimization (MIQO) algorithm </h2>
+
 It is recommended to use `BernsteinEstimate_MIQO(Y,m,a,b,k,e,T)` when there are combinatorial constraints.
 
 * Y: data
