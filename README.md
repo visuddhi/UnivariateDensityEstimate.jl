@@ -21,7 +21,7 @@ It is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Re
 * Y: data
 * m: number of Bernstein basis
 * [a,b]: range of the estimator
-* k: number of modes (only k=0,1 is supported for <code> BernsteinEstimate_MD </code>, k=0 means vanilla density estimation, k=1 means unimodal density estimation)
+* k: number of modes (only k=0,1 is supported for 'BernsteinEstimate_MD', k=0 means vanilla density estimation, k=1 means unimodal density estimation)
 * e: tolerance of error, 1e-4 by default
 * T: maximum computational time (in sceonds), 10e10 by default
 * MaxIter: maximum number of iterations
