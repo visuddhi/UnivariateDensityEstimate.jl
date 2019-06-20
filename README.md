@@ -7,6 +7,7 @@ Package for univariate density estimation with combinatorial constraints, based 
 Run the following code to install the package.
 
 
-```import Pkg
+```julia
+import Pkg
 Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
 ```
