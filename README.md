@@ -91,7 +91,7 @@ for i = 1:D
     end
 end
 ```
-We plot the estimated density functions and we see when no combinatorial constraints are imposed, the estimated density is close to the empirical denstiy; and when we contrain the number of modes, the estimated density become more regular (less significant modes are eliminated).
+We plot the estimated density functions and we see when no combinatorial constraints are imposed, the estimated density is close to the empirical denstiy; and when we constrain the number of modes, the estimated density become more regular (less significant modes are eliminated).
 
 ```julia
 plot(x,val_MD_0,label="MD pdf (k=0)")
