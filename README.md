@@ -26,7 +26,7 @@ It is recommended to use `BernsteinEstimate_MD(Y,m,a,b,k,e,T,MaxIter,obj,flag,Re
 * T: maximum computational time (in sceonds), 10e10 by default
 * MaxIter: maximum number of iterations
 * obj: "Log" or "Quad", "Log" -> maximum log likelihood estimator; "Quad" -> Anderson-Darling estimator
-* flag: "Acc" or "NonAcc", only application for k=0, "Acc" -> accelerated mirror descent, "NonAcc" -> nonaccelerated mirror descent
+* flag: "Acc" or "NonAcc", only applicable for k=0, "Acc" -> accelerated mirror descent, "NonAcc" -> nonaccelerated mirror descent
 * Reg: coefficient of the L2 regularizer
 
 <h2> The mixed-integer-qudratic-optimization (MIQO) algorithm </h2>
