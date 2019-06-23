@@ -12,13 +12,6 @@ import Pkg
 Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
 ```
 
-Or directly through the Julia registries:
-
-```julia
-import Pkg
-Pkg.add("UnivariateDensityEstimate")
-```
-
 You need to also have Julia v1.1 installed (the package does not support the syntax for older Julia versions before v1.0) to be able to use this package.
 
 <h2> The mirror-descent (MD) algorithm </h2>
