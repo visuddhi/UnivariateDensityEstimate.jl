@@ -12,7 +12,7 @@ import Pkg
 Pkg.clone("https://github.com/visuddhi/UnivariateDensityEstimate.jl")
 ```
 
-Or directly through
+Or install directly through
 
 ```julia
 import Pkg
