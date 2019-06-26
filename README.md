@@ -1,6 +1,6 @@
 # UnivariateDensityEstimate.jl
 
-Package for univariate density estimation with combinatorial constraints, based on Bernstein polynomials. 
+Julia Package for univariate density estimation with combinatorial constraints, based on Bernstein polynomials. 
 
 <h2> Installing the package </h2>
 
